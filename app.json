@@ -19,5 +19,5 @@
       "value":""
     }
   },
-  "addons": ["mongolab", "postmark:10k"]
+  "addons": ["mongolab"]
 }
